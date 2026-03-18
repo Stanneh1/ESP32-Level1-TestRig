@@ -1,0 +1,37 @@
+
+# Ignore build outputs
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.suo
+*.userprefs
+*.csproj.user
+
+# Visual Studio settings
+.vscode/
+.vs/
+
+# Logs
+logs/
+
+# ESP32 firmware temporary files
+Firmware/.pio/
+Firmware/.vscode/
+Firmware/build/
+Firmware/*.elf
+Firmware/*.bin
+Firmware/*.map
+
+# OS-specific files
+Thumbs.db
+.DS_Store
+
+# DotNet
+*.log
+*.cache
+
+# Ignore publish outputs
+publish/
+

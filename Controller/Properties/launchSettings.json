@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DUTController": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
