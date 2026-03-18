@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dILYuvBvpKA=",
+  "dgSpecHash": "Aa/LOjAldfY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ian\\source\\repos\\DUTController\\DUTController.csproj",
+  "projectFilePath": "C:\\Users\\Ian\\Desktop\\ESP320-Level1-TestRig\\Controller\\DUTController.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ian\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512",
     "C:\\Users\\Ian\\.nuget\\packages\\runtime.android-arm.runtime.native.system.io.ports\\10.0.5\\runtime.android-arm.runtime.native.system.io.ports.10.0.5.nupkg.sha512",

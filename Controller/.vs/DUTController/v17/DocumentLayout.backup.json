@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Ian\\source\\repos\\DUTController\\",
+  "WorkspaceRootPath": "C:\\Users\\Ian\\Desktop\\ESP320-Level1-TestRig\\Controller\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{855EDDA7-A14E-46A7-A4AB-7B33BF248F66}|DUTController.csproj|c:\\users\\ian\\source\\repos\\dutcontroller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{855EDDA7-A14E-46A7-A4AB-7B33BF248F66}|DUTController.csproj|c:\\users\\ian\\desktop\\esp320-level1-testrig\\controller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{855EDDA7-A14E-46A7-A4AB-7B33BF248F66}|DUTController.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ian\\source\\repos\\DUTController\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ian\\Desktop\\ESP320-Level1-TestRig\\Controller\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Ian\\source\\repos\\DUTController\\Program.cs",
+              "ToolTip": "C:\\Users\\Ian\\Desktop\\ESP320-Level1-TestRig\\Controller\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAFYBAAAAAAAAAAAwwGoBAAABAAAAAAAAAA==",
+              "ViewState": "AgIAADEBAAAAAAAAAAAgwGoBAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-18T10:59:50.822Z",
               "EditorCaption": ""

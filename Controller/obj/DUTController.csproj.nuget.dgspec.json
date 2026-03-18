@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ian\\source\\repos\\DUTController\\DUTController.csproj": {}
+    "C:\\Users\\Ian\\Desktop\\ESP320-Level1-TestRig\\Controller\\DUTController.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ian\\source\\repos\\DUTController\\DUTController.csproj": {
+    "C:\\Users\\Ian\\Desktop\\ESP320-Level1-TestRig\\Controller\\DUTController.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ian\\source\\repos\\DUTController\\DUTController.csproj",
+        "projectUniqueName": "C:\\Users\\Ian\\Desktop\\ESP320-Level1-TestRig\\Controller\\DUTController.csproj",
         "projectName": "DUTController",
-        "projectPath": "C:\\Users\\Ian\\source\\repos\\DUTController\\DUTController.csproj",
+        "projectPath": "C:\\Users\\Ian\\Desktop\\ESP320-Level1-TestRig\\Controller\\DUTController.csproj",
         "packagesPath": "C:\\Users\\Ian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ian\\source\\repos\\DUTController\\obj\\",
+        "outputPath": "C:\\Users\\Ian\\Desktop\\ESP320-Level1-TestRig\\Controller\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DUTController")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e31dce034b7e93307c74f1fc9516934d4df4e340")]
 [assembly: System.Reflection.AssemblyProductAttribute("DUTController")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DUTController")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
