@@ -1,0 +1,37 @@
+{
+  "timestamp": "2026-03-18T11:35:43.2318525Z",
+  "port": "COM4",
+  "serial": "12342",
+  "results": [
+    {
+      "name": "Board ID",
+      "status": "PASS",
+      "response": "RESP:OK:ESP32_TEST_RIG_v1"
+    },
+    {
+      "name": "GPIO Test",
+      "status": "PASS",
+      "response": "RESP:OK:1"
+    },
+    {
+      "name": "ADC Test",
+      "status": "PASS",
+      "response": "RESP:OK:0"
+    },
+    {
+      "name": "I2C Probe",
+      "status": "PASS",
+      "response": "RESP:OK:NONE"
+    },
+    {
+      "name": "LED Test",
+      "status": "PASS",
+      "response": "RESP:OK:LED_ON"
+    },
+    {
+      "name": "BOOT Button Test",
+      "status": "FAIL",
+      "response": "RESP:ERR:NOT_PRESSED"
+    }
+  ]
+}

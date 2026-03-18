@@ -1,0 +1,26 @@
+{
+  "timestamp": "2026-03-18T11:17:02.2396032Z",
+  "port": "COM4",
+  "results": [
+    {
+      "name": "Board ID",
+      "status": "PASS",
+      "response": "RESP:OK:ESP32_TEST_RIG_v1"
+    },
+    {
+      "name": "GPIO Test",
+      "status": "PASS",
+      "response": "RESP:OK:1"
+    },
+    {
+      "name": "ADC Test",
+      "status": "PASS",
+      "response": "RESP:OK:339"
+    },
+    {
+      "name": "I2C Probe",
+      "status": "PASS",
+      "response": "RESP:OK:NONE"
+    }
+  ]
+}
